@@ -15,11 +15,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/saniya2727-1/SOC-Automation-Project">SOC Automation Project</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/saniya2727-1/SOC-Automation-Project">SOC Automation Project</a>|
+| Case Management with TheHive                  | <a href="https://github.com/saniya2727-1/SOC-Automation-Project">SOC Automation Project</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/saniya2727-1/SOC-Automation-Project">SOC Automation Project</a>|
 |API Integration & JSON Parsing	                | <a href="https://github.com/saniya2727-1/weather-app">Weather App</a>
-|Frontend Development (HTML/CSS/JS)	| Weather App
+|Frontend Development (HTML/CSS/JS)	| <a href="https://github.com/saniya2727-1/weather-app">Weather App</a>
 
 ## Tools
 
