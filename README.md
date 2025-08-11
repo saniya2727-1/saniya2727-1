@@ -4,7 +4,7 @@
 
 I am a driven and detail-oriented student pursuing a degree in Computer Science with a deep interest in cybersecurity. I’m currently gaining hands-on experience in threat detection, incident response, and SOC automation through self-directed labs and guided projects.
 
-### Check out my CyberSecurity Portfolio <a href="https://github.com/saniya2727-1/Cybersecurity-Portfolio">here!</a>
+### Check out my CyberSecurity Portfolio <a href="https://saniya2727-1.github.io/Cybersecurity-Portfolio/">here!</a>
 
 ## Objective
 
